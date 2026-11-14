@@ -1,0 +1,30 @@
+{
+  "source": "https://github.com/ggml-org/llama.cpp/releases/tag/b12359",
+  "sha256": {
+    "libggml-cpu-android_armv8.0_1.so": "79931e1e95201727bb6931043aa2f5d8d43af0f19620c59f2c1b214f77e501f4",
+    "libggml-cpu-android_armv8.6_1.so": "69befc86fd21e47ecb5cc3b0d879137475a91bd617ae1d5a5b14f0f1fab438f3",
+    "libmoris_llama_server.so": "876d34b246b9b4d7d247aa4fb5789ad7acc5ffc1527bab3d12b77d449c664505",
+    "libggml-cpu-android_armv8.2_2.so": "906d18a13e74dc69b506e3f5878b16420c85bb7f645a12cd51bda337d5c89e53",
+    "libllama-common.so": "498d1a051fc67d068841d9ac4724b2cc571fec03c2d736e97940578e71356b84",
+    "libmtmd.so": "4735d9cf24329c7ea149d42a08b19006ac06dcce03e05f9eaef73feaedbef1bb",
+    "libggml-base.so": "73041f9ca66c3339562ea9dc515af047274e5858a84a6908064c3515531c5d93",
+    "libllama-server-impl.so": "19eb84890a81123cb8165677af8d59da998621c6eddaf1ba9ba737a14ded2923",
+    "libggml.so": "c6673ddbb25a3f8b0eb9004813231619b2e3cec8b41c1f2662f923af3d2730dd",
+    "libllama.so": "536ce11af9f9f40183c15d3d03736f67820d226806580dfaa200a4235f0ae16b"
+  },
+  "archive_sha256": "a2a0a953dfd671c3067f3979b62ce07fc875363a014e16612fee64ff9a044d7b",
+  "backend_selection": "Generic ARM64 plus ARMv8.2/8.6 CPU paths; runtime checks CPU features.",
+  "source_sha256_before_debug_strip": {
+    "libggml-cpu-android_armv8.0_1.so": "6f1635192875735a2abe027fb332912c2bc22dc1eefa5ee19deef233d9a8203a",
+    "libggml-cpu-android_armv8.6_1.so": "7b39587b6a96129e83ff6fdeed73b5da3949cacd04125aa08ac6ccab0bc01d41",
+    "libmoris_llama_server.so": "db82377125f69e87c06b402bba1af072e2a4c4cc9945946e4d6378cc213a84d7",
+    "libggml-cpu-android_armv8.2_2.so": "09baceb11ee1e2df16e5d3a7655cd214557024763dde1d42db750d7184d28bc4",
+    "libllama-common.so": "b78c7a19d07c6538ed9443cc5f5828e24b6588a27d9e84316e9276c0b43f56ad",
+    "libmtmd.so": "da05e0c52bc5f399a137f7d35970d4c047589d09337b73976c6c193b70e1eae3",
+    "libggml-base.so": "e9bc8522298a8c6b252840cea2204737cae584deae4874ffb0afd24a8da88fe4",
+    "libllama-server-impl.so": "9853d974f80661892f691efe2ab5604e6b5d4e522c3fb626cb9a0e9971c97860",
+    "libggml.so": "7c3a1f2b780dbadfdad840906b08270e350aeb3c7b084805c5faba84b9aa2bbb",
+    "libllama.so": "50b50e0171229d2b5e12760fada6aeef1b4296bf77a49a8564945502b090c7ff"
+  },
+  "debug_strip": "GNU Binutils for Debian 2.44; every SHF_ALLOC section verified byte-identical before/after."
+}
